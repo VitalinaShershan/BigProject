@@ -14,5 +14,8 @@ public class Main {
         troyo.Radius = "iuzil455";
         troyo.temperature = "vj28282";
 
+        Planet1 Fearo= new Planet1();
+        Fearo.color="red";
+        Fearo.Radius="gzugm111";
     }
 }
