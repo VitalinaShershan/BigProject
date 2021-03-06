@@ -10,7 +10,7 @@ public class Main {
         FactorX.Planets = 2;
 
         SUN troyo = new SUN();
-        troyo.Heat = "67658l";
+        troyo.Heat = "67658l888";
         troyo.Radius = "iuzil455";
         troyo.temperature = "vj28282";
 
